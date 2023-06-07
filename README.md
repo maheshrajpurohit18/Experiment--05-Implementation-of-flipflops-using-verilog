@@ -182,7 +182,7 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 ## SR Flip Flop:
-https://user-images.githubusercontent.com/118753139/241567224-66ca29f5-f648-4469-935e-deed5b4ae3b3.png
+https://user-images.githubusercontent.com/118753139/241567224-66ca29f5-f648-4469-935e-deed5b4ae3b3.png 
 
 ## JK Flip Flop:
 https://user-images.githubusercontent.com/118753139/241567331-69010e69-49ef-43d0-a0a7-34e7134d0db5.png
